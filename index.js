@@ -1,10 +1,11 @@
 const express = require('express');
+const cors = require('cors');
 const fs = require('fs');
 const app = express();
 const port = process.env.PORT || 3000;
 
-// Enable CORS for all routes
-app.use(cors());
+// Enable CORS for specific origin
+app.use(cors({ origin: 'http://localhost:3000' }));
 
 // Read data from db.json
 const rawData = fs.readFileSync('db.json');
