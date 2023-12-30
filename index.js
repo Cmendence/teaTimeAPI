@@ -3,6 +3,9 @@ const fs = require('fs');
 const app = express();
 const port = process.env.PORT || 3000;
 
+// Enable CORS for all routes
+app.use(cors());
+
 // Read data from db.json
 const rawData = fs.readFileSync('db.json');
 const data = JSON.parse(rawData);
