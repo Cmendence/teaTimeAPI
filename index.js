@@ -12,6 +12,11 @@ app.get('/api/data', (req, res) => {
   res.json(data);
 });
 
+// Route for the root path
+app.get('/', (req, res) => {
+  res.send('TeaTime API is live!');
+});
+
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
