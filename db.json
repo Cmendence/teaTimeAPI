@@ -22,6 +22,7 @@
     "slug": "white",
     "caffeine": "40-120mg",
     "caffeineLevel":"high",
+    "sources": ["https://en.wikipedia.org/wiki/White_tea"],
     "price":"$3.99",
     "type": "white",
     "image":"https://images.unsplash.com/photo-1543060895-03f57478a710?q=80&w=1978&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -343,7 +344,8 @@
     "imageAlt":"https://unsplash.com/photos/black-and-white-flower-petals-gT_rAfFvCyw",
     "description": "A traditional semi-oxidized Chinese tea produced through a process including withering the plant under strong sun and oxidation before curling and twisting",
     "colorDescription": "bright green or yellow, or dark amber and red",
-    "tasteDescription": "Similar to black tea, though varied oxidation levels results in widely varied tastes"
+    "tasteDescription": "Similar to black tea, though varied oxidation levels results in widely varied tastes",
+    "sources": ["https://en.wikipedia.org/wiki/Oolong"]
   },
   {
     "_id": "63092102a643c85c74b00e85",
