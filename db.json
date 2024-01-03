@@ -210,10 +210,7 @@
     "description": "A Japanese green tea that is roasted in a porcelain pot over charcoal",
     "colorDescription": "distinctive clear red appearance",
     "tasteDescription": "naturally sweet taste and smoky flavor with distinct notes of cocoa",
-    "sources": [
-      "https://en.wikipedia.org/wiki/H%C5%8Djicha",
-      "https://hojicha.co/"
-    ]
+    "sources": ["https://en.wikipedia.org/wiki/H%C5%8Djicha"]
   },
   {
     "_id": "63092102a643c85c74b00e6f",
@@ -277,10 +274,7 @@
     "description": "A variety of oolong tea that was originated during the 19th century",
     "colorDescription": "bright emerald to bright yellow",
     "tasteDescription": "roasted, nutty, creamy, fruity, toasty, honey, floral, fresh, vegetal and mineral",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Tieguanyin",
-      "https://www.puretaiwantea.com/health-benefits-of-tieguanyin-tea"
-    ]
+    "sources": ["https://en.wikipedia.org/wiki/Tieguanyin"]
   },
   {
     "_id": "63092102a643c85c74b00e82",
@@ -443,7 +437,7 @@
     "description": "Assam Smoked Oolong is a highly unusual and rare oak smoked tea from Mothola Tea Estate in Assam. ",
     "colorDescription": "amber red",
     "tasteDescription": "oaky, smokey, sweet, malty, has notes of apricots and tobacco",
-    "sources": [""]
+    "sources": ["https://en.wikipedia.org/wiki/Assam_tea"]
   },
   {
     "_id": "63092102a643c85c74b00e8b",
@@ -508,7 +502,7 @@
     "description": "A complex white tea from Fuding in Fujian Province",
     "colorDescription": "light yellow",
     "tasteDescription": "smooth, juicy taste has clean notes of unripe fruits, light wood and just a touch of vegetal astringency.",
-    "sources": [""]
+    "sources": ["https://en.wikipedia.org/wiki/Baihao_Yinzhen"]
   },
   {
     "_id": "63092102a643c85c74b00e8f",
@@ -525,7 +519,7 @@
     "description": "A white tea made from a blend of select Superior Cultivars from Malawi, making it rich in theanine and antioxidants.",
     "colorDescription": "golden yellow",
     "tasteDescription": "delicate sweetness of apricot and lychee lingers on the pallet",
-    "sources": [""]
+    "sources": ["https://www.satemwa.com/whiteteamalawi"]
   },
   {
     "_id": "63092102a643c85c74b00e90",
@@ -535,7 +529,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Earl_Grey_Tea.jpg/640px-Earl_Grey_Tea.jpg",
     "origin": "UK*",
     "price":"$4.99",
-    "type": "blend",
+    "type": "blend, black",
     "caffeine": "40-120mg",
     "caffeineLevel": "very high",
     "mainIngredients": "black tea, oil of bergamot",
@@ -568,7 +562,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/English_breakfast_tea_tin.jpg/536px-English_breakfast_tea_tin.jpg",
     "origin": "UK",
     "price":"$4.99",
-    "type": "blend",
+    "type": "blend, black, assam, ceylon, keemun, kenyan",
     "caffeine": "60-100mg",
     "caffeineLevel": "very high",
     "mainIngredients": "black tea (varied)",
@@ -585,7 +579,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Contents_of_a_bag_of_chai_tea.jpg/640px-Contents_of_a_bag_of_chai_tea.jpg",
     "origin": "India",
     "price":"$3.89",
-    "type": "blend",
+    "type": "blend, asssam, black",
     "caffeine": "40-50mg",
     "caffeineLevel": "high",
     "mainIngredients": "assam tea, sugar, cardamom, black pepper, and ginger.",
@@ -602,7 +596,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Milk_in_Irish_Breakfast_tea.jpg/480px-Milk_in_Irish_Breakfast_tea.jpg",
     "origin": "UK",
     "price":"$4.99",
-    "type": "blend",
+    "type": "blend, black, assam, ceylon",
     "caffeine": "60-100mg",
     "caffeineLevel": "very high",
     "mainIngredients": "black tea (varied)",
@@ -620,7 +614,7 @@
     "imageAlt":"https://unsplash.com/photos/brown-sack-nHTZLszh2No",
     "origin": "China",
     "price":"$3.99",
-    "type": "blend",
+    "type": "blend, oolong, keemun, lapsang souchong",
     "caffeine": "20-60mg",
     "caffeineLevel": "high",
     "mainIngredients": "oolong tea, keemun tea, lapsang souchong tea",
@@ -653,7 +647,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Genmaicha.JPG/640px-Genmaicha.JPG",
     "origin": "Japan",
     "price":"$2.59",
-    "type": "blend",
+    "type": "blend, green",
     "caffeine": "5-20mg",
     "caffeineLevel": "low",
     "mainIngredients": "green tea, brown rice",
@@ -670,7 +664,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TwiningsLadyGrey_low.jpg/640px-TwiningsLadyGrey_low.jpg",
     "origin": "UK*",
     "price":"$4.99",
-    "type": "blend",
+    "type": "blend, black",
     "caffeine": "25-110mg",
     "caffeineLevel": "high",
     "mainIngredients": "black tea, oil of bergamot, lemon peel, orange Peel",
@@ -688,13 +682,13 @@
     "imageAlt":"https://unsplash.com/photos/black-ceramic-teacup-on-white-surface-4orQSKpTKPI",
     "origin": "China",
     "price":"$2.29",
-    "type": "blend",
+    "type": "blend, green, white, jasmine",
     "caffeine": "10-20mg",
     "caffeineLevel": "low",
     "mainIngredients": "green tea, white tea, jasmine flowers",
     "description": "Dragon Pearl Jasmine is comprised of little, hand-rolled pearls gently infused with jasmine flowers",
     "colorDescription": "clear light yellow",
     "tasteDescription": "Jasmine, root beer, sweet, but yet a light/subtle feeling.",
-    "sources": [""]
+    "sources": ["https://www.teaforum.org/viewtopic.php?t=523"]
   }
 ]
