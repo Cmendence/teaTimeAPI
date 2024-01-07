@@ -43,7 +43,7 @@
     "type": "black",
     "caffeine": "60-110mg",
     "caffeineLevel": "high",
-    "decription": "Assam tea is mostly grown at or near sea level and is known for its body, briskness, malty flavour, and strong, bright colour. Assam teas, or blends containing Assam, are often sold as \"breakfast\" teas.",
+    "description": "Assam tea is mostly grown at or near sea level and is known for its body, briskness, malty flavour, and strong, bright colour. Assam teas, or blends containing Assam, are often sold as \"breakfast\" teas.",
     "colorDescription": "deep-amber",
     "tasteDescription": "The flavor can range from brisk, smokey, earthy, musky and strong to a lighter cup with chocolate, cocoa, or even sweet and spicy notes",
     "sources": ["https://en.wikipedia.org/wiki/Assam_tea"]
@@ -59,7 +59,7 @@
     "type": "black",
     "caffeine": "50-120mg",
     "caffeineLevel": "very high",
-    "decription": "Darjeeling tea is a black tea that is grown and processed in the Darjeeling or Kalimpong Districts in West Bengal, also among the only teas in the world with a Geographical Indication trademark",
+    "description": "Darjeeling tea is a black tea that is grown and processed in the Darjeeling or Kalimpong Districts in West Bengal, also among the only teas in the world with a Geographical Indication trademark",
     "sources": [
       "https://en.wikipedia.org/wiki/Darjeeling_tea",
       "https://www.thespruceeats.com/tea-flushes-in-darjeeling-765194",
@@ -79,7 +79,7 @@
     "type": "black",
     "caffeine": "25-45mg",
     "caffeineLevel": "moderate",
-    "decription": "A black tea ",
+    "description": "A black tea ",
     "sources": ["https://en.wikipedia.org/wiki/Keemun"],
     "colorDescription": "bright red",
     "tasteDescription": "smooth, fruity, malty, unsweetened cocoa"
@@ -95,7 +95,7 @@
     "type": "black",
     "caffeine": "40-80mg",
     "caffeineLevel": "moderate",
-    "decription": "Lapsang Souchong is a tea that is smoke-dried over a pinewood fire",
+    "description": "Lapsang Souchong is a tea that is smoke-dried over a pinewood fire",
     "sources": ["https://en.wikipedia.org/wiki/Lapsang_souchong"],
     "colorDescription": "ranging from amber to caramel to deep red.",
     "tasteDescription": "sweet, piney, smoky"
@@ -111,7 +111,7 @@
     "type": "black",
     "caffeine": "20-40mg",
     "caffeineLevel": "moderate",
-    "decription": "A relatively high-end, gourmet Chinese black tea sometimes used in various tea blends. The main difference between Dianhong and other Chinese black teas is the amount of fine leaf buds, or \"golden tips,\" present in the dried tea.",
+    "description": "A relatively high-end, gourmet Chinese black tea sometimes used in various tea blends. The main difference between Dianhong and other Chinese black teas is the amount of fine leaf buds, or \"golden tips,\" present in the dried tea.",
     "sources": ["https://en.wikipedia.org/wiki/Dianhong"],
     "colorDescription": "golden orange",
     "tasteDescription": "sweet, floral, and honey-like, though tends to be stronger and more bitter than other red teas"
