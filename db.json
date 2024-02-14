@@ -14,7 +14,8 @@
     "sources": ["https://en.wikipedia.org/wiki/Black_tea"],
     "description": "Black tea, also translated to red tea in various East Asian languages, is a type of tea that is more oxidized than other types",
     "colorDescription": "red, amber",
-    "tasteDescription": "smoky, earthy, spicy, nutty, citrus, caramel, leather, fruity, and honey"
+    "tasteDescription": "smoky, earthy, spicy, nutty, citrus, caramel, leather, fruity, and honey",
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e71",
@@ -30,7 +31,8 @@
     "origin": "East Asia",
     "description": "A style of tea that features young or minimally processed leaves of the Camellia sinensis plant",
     "colorDescription": "light green or light yellow",
-    "tasteDescription": "floral, fresh, fruity, with a hint of cucumber or melon."
+    "tasteDescription": "floral, fresh, fruity, with a hint of cucumber or melon.",
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e72",
@@ -46,7 +48,8 @@
     "description": "Assam tea is mostly grown at or near sea level and is known for its body, briskness, malty flavour, and strong, bright colour. Assam teas, or blends containing Assam, are often sold as \"breakfast\" teas.",
     "colorDescription": "deep-amber",
     "tasteDescription": "The flavor can range from brisk, smokey, earthy, musky and strong to a lighter cup with chocolate, cocoa, or even sweet and spicy notes",
-    "sources": ["https://en.wikipedia.org/wiki/Assam_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Assam_tea"],
+    "rating": "3"
   },
   {
     "_id": "63092102a643c85c74b00e73",
@@ -66,7 +69,8 @@
       "https://www.seriouseats.com/why-you-should-drink-more-darjeeling-tea-what-is-first-flush"
     ],
     "colorDescription": "ranging from golden yellow to orange to deep red.",
-    "tasteDescription": "musky-sweet tasting notes similar to muscat wine"
+    "tasteDescription": "musky-sweet tasting notes similar to muscat wine",
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e75",
@@ -82,7 +86,8 @@
     "description": "A black tea ",
     "sources": ["https://en.wikipedia.org/wiki/Keemun"],
     "colorDescription": "bright red",
-    "tasteDescription": "smooth, fruity, malty, unsweetened cocoa"
+    "tasteDescription": "smooth, fruity, malty, unsweetened cocoa",
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e74",
@@ -98,7 +103,8 @@
     "description": "Lapsang Souchong is a tea that is smoke-dried over a pinewood fire",
     "sources": ["https://en.wikipedia.org/wiki/Lapsang_souchong"],
     "colorDescription": "ranging from amber to caramel to deep red.",
-    "tasteDescription": "sweet, piney, smoky"
+    "tasteDescription": "sweet, piney, smoky",
+    "rating": "3"
   },
   {
     "_id": "63092102a643c85c74b00e76",
@@ -114,7 +120,8 @@
     "description": "A relatively high-end, gourmet Chinese black tea sometimes used in various tea blends. The main difference between Dianhong and other Chinese black teas is the amount of fine leaf buds, or \"golden tips,\" present in the dried tea.",
     "sources": ["https://en.wikipedia.org/wiki/Dianhong"],
     "colorDescription": "golden orange",
-    "tasteDescription": "sweet, floral, and honey-like, though tends to be stronger and more bitter than other red teas"
+    "tasteDescription": "sweet, floral, and honey-like, though tends to be stronger and more bitter than other red teas",
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e77",
@@ -130,7 +137,8 @@
     "description": "A Japanese green tea prepared by infusing whole tea leaves in hot water.",
     "colorDescription": "light green",
     "tasteDescription": "fresh, herbal, or grassy flavor, which can have varying vegetal grassy notes depending on how long it is steeped.",
-    "sources": ["https://en.wikipedia.org/wiki/Sencha"]
+    "sources": ["https://en.wikipedia.org/wiki/Sencha"],
+    "rating": "3"
   },
   {
     "_id": "63092102a643c85c74b00e78",
@@ -146,7 +154,8 @@
     "description": "A finely ground powder of specially grown and processed green tea leaves, traditionally consumed in East Asia.",
     "colorDescription": "green, dark green",
     "tasteDescription": "vegetal grassy notes, natural sweet nuttiness, a touch of bitterness with a pleasant savory ending",
-    "sources": ["https://en.wikipedia.org/wiki/Matcha"]
+    "sources": ["https://en.wikipedia.org/wiki/Matcha"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e79",
@@ -162,7 +171,8 @@
     "description": "Tea that is harvested from the same tea tree as sencha grade, but it is plucked later than sencha is. Can be found in a number of forms such as roasted, unroasted, smoked, etc.",
     "colorDescription": "light green to green-orange",
     "tasteDescription": "mild, earthy grassiness, with dry, toasty notes with less of a deeply vegetal, umami flavo",
-    "sources": ["https://en.wikipedia.org/wiki/Bancha"]
+    "sources": ["https://en.wikipedia.org/wiki/Bancha"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e7a",
@@ -178,7 +188,8 @@
     "description": "A type of shaded green tea from Japan. It differs from the standard sencha (a classic unshaded green tea) in being grown under the shade rather than the full sun.",
     "colorDescription": "ranging from light green to dark green",
     "tasteDescription": "very full-bodied, with a taste reminiscent to seaweed and grasses, followed by an intense sweetness",
-    "sources": ["https://en.wikipedia.org/wiki/Gyokuro"]
+    "sources": ["https://en.wikipedia.org/wiki/Gyokuro"],
+    "rating": "3"
   },
   {
     "_id": "63092102a643c85c74b00e7b",
@@ -194,7 +205,8 @@
     "description": "A Japanese blend made of stems, stalks, and twigs. It is available as a green tea or in more oxidised processing",
     "colorDescription": "very pale, yellow-green,",
     "tasteDescription": "mildly nutty and slightly creamy sweet flavour",
-    "sources": ["https://en.wikipedia.org/wiki/Kukicha"]
+    "sources": ["https://en.wikipedia.org/wiki/Kukicha"],
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e7d",
@@ -210,7 +222,8 @@
     "description": "A Japanese green tea that is roasted in a porcelain pot over charcoal",
     "colorDescription": "distinctive clear red appearance",
     "tasteDescription": "naturally sweet taste and smoky flavor with distinct notes of cocoa",
-    "sources": ["https://en.wikipedia.org/wiki/H%C5%8Djicha"]
+    "sources": ["https://en.wikipedia.org/wiki/H%C5%8Djicha"],
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e6f",
@@ -226,7 +239,8 @@
     "sources": ["https://en.wikipedia.org/wiki/Green_tea"],
     "description": "Made from unoxidized leaves, Green tea is one of the least processed types of tea, offering high levels of antioxidants.",
     "colorDescription": "varying shades of green",
-    "tasteDescription": "sweet, bittersweet, nutty, vegetal, buttery, floral, fruity, oceanic"
+    "tasteDescription": "sweet, bittersweet, nutty, vegetal, buttery, floral, fruity, oceanic",
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e7e",
@@ -242,7 +256,8 @@
     "description": "A Wuyi rock tea grown in the Wuyi Mountains of Fujian Province, China",
     "colorDescription": "orange-yellow, bright and clear",
     "tasteDescription": "peaty and earthy notes with hints of stone fruit, brown sugar, and molasses",
-    "sources": ["https://en.wikipedia.org/wiki/Da_Hong_Pao"]
+    "sources": ["https://en.wikipedia.org/wiki/Da_Hong_Pao"],
+    "rating": "3"
   },
   {
     "_id": "63092102a643c85c74b00e7f",
@@ -258,7 +273,8 @@
     "description": "A Wuyi oolong tea from Mount Wuyi, Fujian, China",
     "colorDescription": "bright green",
     "tasteDescription": "sweet, floral",
-    "sources": ["https://en.wikipedia.org/wiki/Shui_Jin_Gui_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Shui_Jin_Gui_tea"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e83",
@@ -274,7 +290,9 @@
     "description": "A variety of oolong tea that was originated during the 19th century",
     "colorDescription": "bright emerald to bright yellow",
     "tasteDescription": "roasted, nutty, creamy, fruity, toasty, honey, floral, fresh, vegetal and mineral",
-    "sources": ["https://en.wikipedia.org/wiki/Tieguanyin"]
+    "sources": ["https://en.wikipedia.org/wiki/Tieguanyin"],
+    "rating": "5"
+
   },
   {
     "_id": "63092102a643c85c74b00e82",
@@ -290,7 +308,8 @@
     "description": "Heavy Wuyi tea, the darkest of the dark oolongs from Wuyi.",
     "colorDescription": "Deep amber",
     "tasteDescription": "Mellow and delicate, the liquid is rich and complicated, with lingering fragrance in mouth",
-    "sources": ["https://en.wikipedia.org/wiki/Shui_Xian"]
+    "sources": ["https://en.wikipedia.org/wiki/Shui_Xian"],
+    "rating": "3"
   },
   {
     "_id": "63092102a643c85c74b00e80",
@@ -307,7 +326,8 @@
     "description": "Grown on the cliffs of the Wuyi Mountains in China, Tieluohan is a light tea with high regards due to legends",
     "colorDescription": "clear brown",
     "tasteDescription": "strong robust taste with a little bitterness",
-    "sources": ["https://en.wikipedia.org/wiki/Tieluohan_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Tieluohan_tea"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e84",
@@ -323,7 +343,8 @@
     "description": "A premium variety of Chinese oolong tea named after the yellow golden color of its budding leaves and its unique flowery aroma",
     "colorDescription": "light yellow to light green",
     "tasteDescription": "smooth sweet flavor with a rich slightly nutty after-taste",
-    "sources": ["https://en.wikipedia.org/wiki/Huangjin_Gui"]
+    "sources": ["https://en.wikipedia.org/wiki/Huangjin_Gui"],
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e70",
@@ -339,7 +360,8 @@
     "description": "A traditional semi-oxidized Chinese tea produced through a process including withering the plant under strong sun and oxidation before curling and twisting",
     "colorDescription": "bright green or yellow, or dark amber and red",
     "tasteDescription": "Similar to black tea, though varied oxidation levels results in widely varied tastes",
-    "sources": ["https://en.wikipedia.org/wiki/Oolong"]
+    "sources": ["https://en.wikipedia.org/wiki/Oolong"],
+    "rating": "3"
   },
   {
     "_id": "63092102a643c85c74b00e85",
@@ -355,7 +377,8 @@
     "description": "An oolong tea from Taiwan which translates to \"Frozen Summit\" or \"Icy Peak\", and is the name of the mountain in Taiwan where the tea is cultivated",
     "colorDescription": "dark, army-green color with slight hints of brown",
     "tasteDescription": "Conatins nutty notes, along with a smooth caramel-like flavor",
-    "sources": ["https://en.wikipedia.org/wiki/Dong_Ding_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Dong_Ding_tea"],
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e86",
@@ -371,7 +394,8 @@
     "description": "A heavily oxidized, non-roasted, tip-type oolong tea originating in Hsinchu County, Taiwan",
     "colorDescription": "bright reddish-orange",
     "tasteDescription": "sweet-tasting ",
-    "sources": ["https://en.wikipedia.org/wiki/Dongfang_meiren"]
+    "sources": ["https://en.wikipedia.org/wiki/Dongfang_meiren"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e88",
@@ -388,7 +412,8 @@
     "description": "Ruan Zhi, or \"soft stem\", is a variety of oolong tea developed by the Taiwan Tea Experiment Station ",
     "colorDescription": "light amber",
     "tasteDescription": "oily flowery taste, with cherry tones.",
-    "sources": ["https://teapedia.org/en/Ruan_Zhi"]
+    "sources": ["https://teapedia.org/en/Ruan_Zhi"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e87",
@@ -404,7 +429,8 @@
     "description": "A lightly oxidized tea, twist shape, with floral notes, and usually not roasted",
     "colorDescription": "mix of pale honey yellow and jade green, bright in color, and clear",
     "tasteDescription": "grassy, floral notes and the taste of creamy green melon.",
-    "sources": ["https://en.wikipedia.org/wiki/Baozhong_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Baozhong_tea"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e89",
@@ -420,7 +446,8 @@
     "description": "A variety of oolong tea developed in 1980",
     "colorDescription": "dark yellow",
     "tasteDescription": "taste is light, creamy, and flowery and sometimes compared to milk",
-    "sources": ["https://en.wikipedia.org/wiki/Jin_Xuan_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Jin_Xuan_tea"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e8a",
@@ -437,7 +464,8 @@
     "description": "Assam Smoked Oolong is a highly unusual and rare oak smoked tea from Mothola Tea Estate in Assam. ",
     "colorDescription": "amber red",
     "tasteDescription": "oaky, smokey, sweet, malty, has notes of apricots and tobacco",
-    "sources": ["https://en.wikipedia.org/wiki/Assam_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Assam_tea"],
+    "rating": "3"
   },
   {
     "_id": "63092102a643c85c74b00e8b",
@@ -453,7 +481,8 @@
     "description": "A white tea made from only the top buds of the Camellia sinensis plant.",
     "colorDescription": "light orange, light yellow",
     "tasteDescription": "sweet, vegetal, and delicate",
-    "sources": ["https://en.wikipedia.org/wiki/Baihao_Yinzhen"]
+    "sources": ["https://en.wikipedia.org/wiki/Baihao_Yinzhen"],
+    "rating": "3"
   },
   {
     "_id": "63092102a643c85c74b00e8c",
@@ -469,7 +498,8 @@
     "description": "A type of white tea made from plucks each with one leaf shoot and two immediate young leaves (one bud two leaf ratio) of the Camellia sinensis plant.",
     "colorDescription": "golden yellow",
     "tasteDescription": " toasty, slightly sweet floral notes and a clean aftertaste.",
-    "sources": ["https://en.wikipedia.org/wiki/Baimudan_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Baimudan_tea"],
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e8d",
@@ -485,7 +515,8 @@
     "description": "A type of white tea produced from naturally withered upper leafs and tips",
     "colorDescription": "darker green",
     "tasteDescription": "sweet, vegetal, delicate",
-    "sources": ["https://en.wikipedia.org/wiki/Shoumei_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Shoumei_tea"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e8e",
@@ -502,7 +533,8 @@
     "description": "A complex white tea from Fuding in Fujian Province",
     "colorDescription": "light yellow",
     "tasteDescription": "smooth, juicy taste has clean notes of unripe fruits, light wood and just a touch of vegetal astringency.",
-    "sources": ["https://en.wikipedia.org/wiki/Baihao_Yinzhen"]
+    "sources": ["https://en.wikipedia.org/wiki/Baihao_Yinzhen"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e8f",
@@ -519,7 +551,8 @@
     "description": "A white tea made from a blend of select Superior Cultivars from Malawi, making it rich in theanine and antioxidants.",
     "colorDescription": "golden yellow",
     "tasteDescription": "delicate sweetness of apricot and lychee lingers on the pallet",
-    "sources": ["https://www.satemwa.com/whiteteamalawi"]
+    "sources": ["https://www.satemwa.com/whiteteamalawi"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e90",
@@ -536,7 +569,8 @@
     "description": "A tea blend which has been flavoured with oil of bergamot",
     "colorDescription": "amber, deep orange",
     "tasteDescription": "smoky, earthy, spicy, nutty, citrus, caramel, leather, fruity, and honey",
-    "sources": ["https://en.wikipedia.org/wiki/Earl_Grey_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Earl_Grey_tea"],
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e7c",
@@ -552,7 +586,8 @@
     "description": "A type of green tea, composed of the dust, tea buds and small leaves that are left behind after processing Gyokuro or Sencha",
     "colorDescription": "intense green, deep green",
     "tasteDescription": "mild, sweet, and grassy flavor with bitter after taste",
-    "sources": ["https://en.wikipedia.org/wiki/Konacha"]
+    "sources": ["https://en.wikipedia.org/wiki/Konacha"],
+    "rating": "3"
   },
   {
     "_id": "63092102a643c85c74b00e92",
@@ -569,7 +604,8 @@
     "description": "a traditional blend of black teas from Assam, Ceylon, Keemun and Kenyan teas.",
     "colorDescription": "deep amber",
     "tasteDescription": "may be slightly sweet, bitter, or malty",
-    "sources": ["https://en.wikipedia.org/wiki/English_breakfast_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/English_breakfast_tea"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e94",
@@ -586,7 +622,8 @@
     "description": "An Indian tea beverage made by boiling black tea in milk and water with a mixture of aromatic herbs and spices",
     "colorDescription": "brown, beige",
     "tasteDescription": "fragrant, spiced, astringent and a strong flavor",
-    "sources": ["https://en.wikipedia.org/wiki/Masala_chai"]
+    "sources": ["https://en.wikipedia.org/wiki/Masala_chai"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e93",
@@ -603,7 +640,8 @@
     "description": "A traditional blend of black teas from Assam and Ceylon teas. Because of its strength, it is most commonly served with milk.",
     "colorDescription": "red, deep amber",
     "tasteDescription": "Strong, malty, robust",
-    "sources": ["https://en.wikipedia.org/wiki/Irish_breakfast_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Irish_breakfast_tea"],
+    "rating": "3"
   },
   {
     "_id": "63092102a643c85c74b00e95",
@@ -621,7 +659,8 @@
     "description": "A chinese tea blended with various oolong and black teas that gets its name from tea trading through a traderoute that connected eastern Asia to Europe through Russia",
     "colorDescription": "red, deep orange",
     "tasteDescription": "sweet, malty, and smoky taste",
-    "sources": ["https://en.wikipedia.org/wiki/Russian_Caravan"]
+    "sources": ["https://en.wikipedia.org/wiki/Russian_Caravan"],
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e81",
@@ -637,7 +676,8 @@
     "description": "A light Wuyi Mountain tea",
     "colorDescription": "yellowish to light green",
     "tasteDescription": "starts off sweet, uniquely fruity with a toasty floral honeyed aroma and finishes with a lingering mellow fruit and honey note",
-    "sources": ["https://en.wikipedia.org/wiki/Bai_Jiguan_tea"]
+    "sources": ["https://en.wikipedia.org/wiki/Bai_Jiguan_tea"],
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e96",
@@ -654,7 +694,8 @@
     "description": "A Japanese brown rice green tea consisting of green tea mixed with roasted popped brown rice.",
     "colorDescription": "light yellow-green",
     "tasteDescription": "toasty, nutty",
-    "sources": ["https://en.wikipedia.org/wiki/Genmaicha"]
+    "sources": ["https://en.wikipedia.org/wiki/Genmaicha"],
+    "rating": "4"
   },
   {
     "_id": "63092102a643c85c74b00e91",
@@ -670,8 +711,9 @@
     "mainIngredients": "black tea, oil of bergamot, lemon peel, orange Peel",
     "description": "Lady Grey tea is a trademarked variation on Earl Grey tea. Like Earl Grey, it is a black tea flavoured with bergamot essential oil.",
     "colorDescription": "lighter amber, orange",
-    "tasteDescription": "",
-    "sources": ["https://en.wikipedia.org/wiki/Lady_Grey_(tea)"]
+    "tasteDescription": "Lady Grey tea is a very similar to Earl Grey, but with a few important differences. In addition to black tea and bergamot, Lady Grey also contains lemon peel and orange peel. This gives it a softer, more subtle citrusy flavor.",
+    "sources": ["https://en.wikipedia.org/wiki/Lady_Grey_(tea)"],
+    "rating": "5"
   },
   {
     "_id": "63092102a643c85c74b00e97",
@@ -689,6 +731,7 @@
     "description": "Dragon Pearl Jasmine is comprised of little, hand-rolled pearls gently infused with jasmine flowers",
     "colorDescription": "clear light yellow",
     "tasteDescription": "Jasmine, root beer, sweet, but yet a light/subtle feeling.",
-    "sources": ["https://www.teaforum.org/viewtopic.php?t=523"]
+    "sources": ["https://www.teaforum.org/viewtopic.php?t=523"],
+    "rating": "5"
   }
 ]
