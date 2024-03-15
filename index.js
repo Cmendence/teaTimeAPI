@@ -5,7 +5,9 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // Enable CORS for specific origin
-app.use(cors({ origin: 'http://localhost:3000' }));
+app.use(cors({ 
+   origin: ['http://localhost:3000', 'https://regal-puppy-b5c333.netlify.app'] 
+ }));
 
 // Read data from db.json
 const rawData = fs.readFileSync('db.json');
