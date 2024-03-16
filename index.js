@@ -6,7 +6,7 @@ const port = process.env.PORT || 3000;
 
 // Enable CORS for specific origin
 app.use(cors({ 
-   origin: ['http://localhost:3000', 'https://regal-puppy-b5c333.netlify.app'] 
+   origin: ['http://localhost:3000', 'https://regal-puppy-b5c333.netlify.app', 'https://teatimeproject.netlify.app'] 
  }));
 
 // Read data from db.json
